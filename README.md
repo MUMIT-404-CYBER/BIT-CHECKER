@@ -22,5 +22,5 @@ ___This Tools is Free Enjoy Dear User.___</br>
 ## SCREENSHOT :
 <br>
 <p align="center">
-<img src="__scr__/check.jpg"/>
+<img src="__scr__/ck.jpg"/>
 </p>
